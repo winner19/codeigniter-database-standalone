@@ -8,7 +8,7 @@ Use the Database Library separately from CodeIgniter 3.
 ```json
 "require": {
     // ...
-    "evolution/codeigniterdb":  "~1.0"
+    "evolution/codeigniterdb":  "dev-master"
 }
 ```
 
