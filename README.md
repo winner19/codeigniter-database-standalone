@@ -9,8 +9,7 @@ Use the Database Library separately from CodeIgniter 3.
 ###With Composer
 ```json
 "require": {
-    // ...
-    "evolution/codeigniterdb":  "dev-master"
+    "winner19/codeigniterdb":  "dev-master"
 }
 ```
 
