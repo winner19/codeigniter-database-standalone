@@ -1,5 +1,7 @@
 #Codeigniter Database
 
+This repository imported from https://github.com/evolutionscript/codeigniter-database-standalone
+
 Use the Database Library separately from CodeIgniter 3.
 
 ## Installation
